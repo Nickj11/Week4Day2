@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "Week4Day2",
+            "connectString": "postgres://crboatfc:deKjb49-AMJRDBvrJM6vcFyz1CCMI6Qt@snuffleupagus.db.elephantsql.com/crboatfc"
+        }
+    ]
+}
